@@ -2,11 +2,12 @@
 
 [![notion](https://img.shields.io/website?label=My-Notion&style=for-the-badge&url=https://www.notion.so/CV-Cedric-Le-Calvez-475b45d1396b4019a70177654d07e76c)](https://www.notion.so/CV-Cedric-Le-Calvez-475b45d1396b4019a70177654d07e76c)
 
-## I'm a Husband, Father, Developer Junior, and I am in professional reconversion!!
+## I'm a Husband, Father, Developer Junior!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I am looking for a company to share my adventure
 - 👯 I want to work on an exciting projects
+- 🥅 2022 Goals: To obtain the diploma of web application developer and designer and to become competent in devops with with google certification
 - 🥅 2021 Goals: Contribute to Open Source projects and work in a company
 - ⚡ Fun fact: I love to travel and play guitar and visit my family in Colombia
 
