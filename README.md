@@ -23,12 +23,13 @@
 
 ### Languages and Tools:
 
-Language: JS, TS, GO
-Frontend: Angular, React
-Backend: NodeJS, NestJS
-Microservices: GO
-Mobile: React Native
-IaC: Terraform, Ansible
+- Language: JS, TS, GO
+- Frontend: Angular, React
+- Backend: NodeJS, NestJS
+- Microservices: GO
+- Mobile: React Native
+- IaC: Terraform, Ansible
+- Containers: Docker, Podman
 
 <br />
 <br />
