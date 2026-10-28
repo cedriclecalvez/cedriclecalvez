@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I am looking for a company to share my adventure
 - 👯 I want to work on an exciting projects
+- 🥅 2025/2026 Goals: To obtain the diploma of AI Agentic Development
 - 🥅 2025/2026 Goals: To obtain the diploma of Cyber Security
 - 🥅 2024 Goals: To obtain the diploma of DevOps & Cloud and to become competent in devops with Azure Certification
 - 🥅 2022 Goals: To obtain the diploma of web application developer and designer and to become competent in devops with with google certification
