@@ -38,6 +38,7 @@
 ---
 
 ### 📕 Training Schools
+- [[Ebis Business Techschool (in Spain)][unir]](https://www.unir.net](https://www.ebiseducation.com/)/)
 - [[UNIR (in Spain)][unir]](https://www.unir.net/)
 - [Simplon (in Paris)][simplon]
 - [La Capsule (in Paris)][la-capsule]
